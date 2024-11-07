@@ -82,11 +82,27 @@ Hi there! I'm a software engineering student at Bali State Polytechnic.
 
 ### Languages & Tools:
 
-<img src="./img/html-icon.png" width="50" /> 
-<img src="./img/css-icon.png" width="50" />
-<img src="./img/bootstrap-5-logo-icon.png" width="50" />
-<img src="./img/tailwind-css-icon.png" width="50" />
-<img src="./img/mysql-icon.png" width="50" />
-<img src="./img/mongodb-icon.png" width="50" />
-<img src="./img/javascript-programming-language-icon.png" width="50" />
-<img src="./img/laravel-icon.png" width="50" />
+<a href="https://instagram.com/ngkwisnu">
+  <img src="./img/html-icon.png" width="50" /> 
+</a>
+<a href="https://linkedin.com/in/wisnumahesa">
+  <img src="./img/css-icon.png" width="50" />
+</a>
+<a href="https://instagram.com/ngkwisnu">
+  <img src="./img/bootstrap-5-logo-icon.png" width="50" />
+</a>
+<a href="https://linkedin.com/in/wisnumahesa">
+  <img src="./img/tailwind-css-icon.png" width="50" />
+</a>
+<a href="https://instagram.com/ngkwisnu">
+  <img src="./img/mysql-icon.png" width="50" />
+</a>
+<a href="https://linkedin.com/in/wisnumahesa">
+  <img src="./img/mongodb-icon.png" width="50" />
+</a>
+<a href="https://instagram.com/ngkwisnu">
+  <img src="./img/javascript-programming-language-icon.png" width="50" />
+</a>
+<a href="https://linkedin.com/in/wisnumahesa">
+  <img src="./img/laravel-icon.png" width="50" />
+</a>
