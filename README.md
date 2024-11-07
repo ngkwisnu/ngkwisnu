@@ -45,4 +45,5 @@ Hi there! I'm a software engineering student at Bali State Polytechnic.
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngkwisnu&show_icons=true&theme=dark) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkwisnu&layout=compact&theme=dark) |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ngkwisnu&theme=dark)
+| ![Coding GIF](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif?cid=82a1493bsq9d4n5dk2fe4633m3ufjwkmvywwiqvsqwrj3drr&ep=v1_gifs_trending&rid=giphy.gif&ct=g) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngkwisnu&show_icons=true&theme=dark) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
