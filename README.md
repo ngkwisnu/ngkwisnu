@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
     <h1>Hello, </h1>
     <hr>
     <p>Hi there! I'm a software engineering student at Bali State Polytechnic.</p>
@@ -43,4 +43,18 @@
         </div>
     </div>
 
-</div>
+</div> -->
+
+## Hello,
+
+---
+
+Hi there! I'm a software engineering student at Bali State Polytechnic.
+
+### Let's Connect:
+
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://instagram.com/ngkwisnu) [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/wisnumahesa)
+
+### Languages & Tools:
+
+![HTML](./img/html-icon.png) ![CSS](./img/css-icon.png) ![Bootstrap](./img/bootstrap-5-logo-icon.png) ![Tailwind CSS](./img/tailwind-css-icon.png) ![MySQL](./img/mysql-icon.png) ![MongoDB](./img/mongodb-icon.png) ![JavaScript](./img/javascript-programming-language-icon.png) ![Laravel](./img/laravel-icon.png)
