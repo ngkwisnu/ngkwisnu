@@ -1,4 +1,5 @@
-## Hello, World!
+## Hello, World! ![SpinWorldGIF](https://github.com/user-attachments/assets/2ae38fcc-cead-47f2-b812-7094c4b0b806)
+
 
 ---
 
